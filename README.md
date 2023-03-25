@@ -9,7 +9,7 @@ npm i
 
 ## Run Project
 ```cmd
-npm run start
+npm start
 ```
 
 ## Result
