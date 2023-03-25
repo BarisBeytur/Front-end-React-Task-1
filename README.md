@@ -2,8 +2,8 @@
 
 ## Setup
 ```cmd
-git clone https://github.com/BarisBeytur/Front-end-Task-1.git
-cd Front-end-Task-1
+git clone https://github.com/BarisBeytur/Front-end-React-Task-1.git
+cd Front-end-React-Task-1
 npm i
 ```
 
